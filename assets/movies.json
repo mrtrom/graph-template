@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Movie 1",
+    "year": "1992",
+    "rating": 4.0,
+    "actors": [1]
+  },
+  {
+    "id": 2,
+    "title": "Movie 2",
+    "year": "1998",
+    "rating": 4.3,
+    "actors": [2]
+  },
+  {
+    "id": 3,
+    "title": "Movie 3",
+    "year": "2019",
+    "rating": 5.0,
+    "actors": [1, 3]
+  }
+]

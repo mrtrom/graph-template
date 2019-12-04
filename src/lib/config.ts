@@ -1,0 +1,3 @@
+export = {
+  secret: 'wooooooowsecret',
+};

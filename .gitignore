@@ -1,0 +1,11 @@
+dist
+**/coverage
+coverage
+npm-debug.log
+node_modules
+.DS_Store
+**/.DS_Store
+.vscode
+.temp
+**/.idea
+**/jwks*.json

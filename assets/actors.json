@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Vladimir",
+    "birthday": "1992-09-11",
+    "country": "Germany",
+    "directors": [2]
+  },
+  {
+    "id": 2,
+    "name": "Juan",
+    "birthday": "1992-09-11",
+    "country": "Spain",
+    "directors": [1, 2]
+  },
+  {
+    "id": 3,
+    "name": "Jhoan",
+    "birthday": "1992-09-11",
+    "country": "Spain",
+    "directors": [1, 3]
+  }
+]

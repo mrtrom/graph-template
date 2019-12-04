@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alex",
+    "birthday": "1992-09-11",
+    "country": "Argentina"
+  },
+  {
+    "id": 2,
+    "name": "Juan",
+    "birthday": "1992-09-11",
+    "country": "Colombia"
+  },
+  {
+    "id": 3,
+    "name": "Federico",
+    "birthday": "1992-09-11",
+    "country": "Spain"
+  }
+]
